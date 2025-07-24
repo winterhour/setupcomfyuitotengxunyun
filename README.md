@@ -3,11 +3,11 @@
 
 下载安装程序：
 
-git clone https://e.coding.net/g-ityv3430/mydongxiangmu/setupcfuitotx.git
+git clone https://github.com/winterhour/setupcomfyuitotengxunyun.git
 
 运行安装：
 
-cd setupcfuitotx
+cd setupcomfyuitotengxunyun
 
 bash 1aitools.sh
 
