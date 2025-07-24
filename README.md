@@ -1,0 +1,2 @@
+# setupcomfyuitotengxunyun
+在腾讯云上安装ComfyUI
